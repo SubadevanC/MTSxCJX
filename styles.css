@@ -29,12 +29,12 @@ h3{
 
 .top-cloud{
 position: absolute;
-right: 300px;
-top: 500px;
+right: 150px;
+top: 300px;
 }
 .bottom-cloud{
   position: absolute;
-left: 300px;
+left: 150px;
 bottom: 300px;
 }
 
